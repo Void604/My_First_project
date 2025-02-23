@@ -1,2 +1,2 @@
-# My_First_project
-my first project on github this is a mood tracking app 
+# This is a MOOD Tracker app 
+i built this as a small project it is a simple easy to understand mood tracker with a login and singup page and comtains few features very simple to understand.
